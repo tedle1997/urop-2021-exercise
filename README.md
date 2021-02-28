@@ -36,5 +36,5 @@ The solution to this problem is not unique, i.e. there are several tracks with t
 ## Installation
 
 Install python on your machine (we used version 3.6) and install the requirements with `pip install -r requirements.txt`.
-If you execute [main.py](https://github.com/testingautomated-usi/urop-2021-exercise/blob/master/config.py) 
+If you execute [main.py](https://github.com/testingautomated-usi/urop-2021-exercise/blob/master/main.py) 
 you should see the plot above indicating that all the dependencies have been correctly installed.
